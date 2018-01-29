@@ -1,0 +1,38 @@
+{
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.9",
+		"install": [
+			"."
+		],
+		"sync": "true"
+	},
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "7nr4SvBjJCpFsLe/Z7DRRCV6ObM=",
+			"path": "github.com/adampointer/go-slackbot",
+			"revision": "90a322f9eda3ee69688a015ce56d7b6930614600",
+			"revisionTime": "2017-12-21T10:53:19Z"
+		},
+		{
+			"checksumSHA1": "/YXmOFgrshoy53HZSRuU0eLoyrM=",
+			"path": "github.com/essentialkaos/slack",
+			"revision": "18943937b92068dd2ea0e3d9a73f4a6dac25734d",
+			"revisionTime": "2018-01-18T14:57:40Z"
+		},
+		{
+			"checksumSHA1": "pgR0imj8+6ztCkoQ6EFm/Ifk+Es=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "91f589db023d66e4aba7112d44cc0d2fb091c553",
+			"revisionTime": "2018-01-25T18:51:21Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "0ed95abb35c445290478a5348a7b38bb154135fd",
+			"revisionTime": "2018-01-24T06:08:02Z"
+		}
+	],
+	"rootPath": "github.com/deluan/slack-of-lies"
+}
